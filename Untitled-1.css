@@ -295,10 +295,10 @@ background: none;
     top: 0;
     background: crimson;
 }
-.skills .skills-content .right .Black-box Testing::before{
+.skills .skills-content .right .Black-boxTesting::before{
     width: 70%;
 }
-.skills .skills-content .right .White-box Testing::before{
+.skills .skills-content .right .White-boxTesting::before{
     width: 65%;
 }
 .skills .skills-content .right .html::before{
